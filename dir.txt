@@ -1,0 +1,37 @@
+.
+├── CHANGELOG.md
+├── LICENSE
+├── README.md
+├── dir.txt
+├── docs
+├── examples
+│   ├── async_logging.py
+│   ├── basic_usage.py
+│   └── web_application.py
+├── logs
+│   └── basic-example.jsonl
+├── pyproject.toml
+├── src
+│   ├── jx_logger
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-312.pyc
+│   │   │   ├── core.cpython-312.pyc
+│   │   │   ├── formatters.cpython-312.pyc
+│   │   │   ├── handlers.cpython-312.pyc
+│   │   │   └── utils.cpython-312.pyc
+│   │   ├── core.py
+│   │   ├── formatters.py
+│   │   ├── handlers.py
+│   │   └── utils.py
+│   └── jx_logger.egg-info
+│       ├── PKG-INFO
+│       ├── SOURCES.txt
+│       ├── dependency_links.txt
+│       ├── requires.txt
+│       └── top_level.txt
+└── tests
+    ├── __init__.py
+    └── test_basic.py
+
+8 directories, 26 files
